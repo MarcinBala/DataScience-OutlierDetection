@@ -1,5 +1,5 @@
 # DataScience-OutlierDetection
-Projekt mający na celu wykrywanie odchyleń (outlierów) w danych przy użyciu kilku popularnych metod. Celem projektu jest praktyczne zastosowanie tych metod do zbiorów danych w Pythonie.  
+Wykrywanie odchyleń (outlierów) w danych przy użyciu kilku popularnych metod. Celem projektu jest praktyczne zastosowanie tych metod do zbiorów danych w Pythonie.  
 
 ## Metody
 - IQR (Interquartile Range)
